@@ -9,3 +9,5 @@ Examples:
 4,17 -> 4,6,7,8,9,10,11,12,13,14,16,17 -> Result 12
 The result may contain fives. ;-)
 The start number will always be smaller than the end number. Both numbers can be also negative!
+# Branch : final 
+contains the correct solution / clever
